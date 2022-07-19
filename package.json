@@ -1,0 +1,25 @@
+{
+    "name": "file-manager",
+    "version": "0.0.1",
+    "description": "file manager",
+    "main": "src/index.js",
+    "scripts": {
+      "dev": "node src/index.js --username=RichardPickman"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/richardpickman/file-manager.git"
+    },
+    "keywords": [
+      "nodejs",
+      "fs",
+      "javascript"
+    ],
+    "author": "RichardPickman",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/richardpickman/file-manager/issues"
+    },
+    "homepage": "https://github.com/richardpickman/file-manager#readme"
+  }
+  
